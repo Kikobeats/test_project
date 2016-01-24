@@ -1,7 +1,16 @@
+<a name="0.0.12"></a>
+## 0.0.12 (2016-01-24)
+
+
+* update ([0c654c9](https://github.com/someone/downloads/commit/0c654c9))
+
+
+
 <a name="0.0.11"></a>
 ## 0.0.11 (2016-01-24)
 
 
+* Release 0.0.11 ([80c0304](https://github.com/someone/downloads/commit/80c0304))
 * update ([8e8050d](https://github.com/someone/downloads/commit/8e8050d))
 
 
