@@ -1,6 +1,14 @@
+<a name="0.0.18"></a>
+## 0.0.18 (2016-01-24)
+
+
+
+
 <a name="0.0.17"></a>
 ## 0.0.17 (2016-01-24)
 
+
+* Release 0.0.17 ([3faf257](https://github.com/someone/downloads/commit/3faf257))
 
 
 
