@@ -1,7 +1,16 @@
+<a name="0.0.6"></a>
+## 0.0.6 (2016-01-24)
+
+
+* updated ([030ab04](https://github.com/someone/downloads/commit/030ab04))
+
+
+
 <a name="0.0.5"></a>
 ## 0.0.5 (2016-01-24)
 
 
+* Release 0.0.5 ([c5809bd](https://github.com/someone/downloads/commit/c5809bd))
 * update ([b7057ad](https://github.com/someone/downloads/commit/b7057ad))
 
 
