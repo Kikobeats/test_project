@@ -1,8 +1,8 @@
-<a name="0.0.1"></a>
-## 0.0.1 (2016-01-24)
+<a name="0.0.2"></a>
+## 0.0.2 (2016-01-24)
 
 
-* first commit ([01c5235](https://github.com/someone/downloads/commit/01c5235))
+* first commit ([37718cb](https://github.com/someone/downloads/commit/37718cb))
 
 
 
