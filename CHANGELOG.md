@@ -1,3 +1,11 @@
+<a name="0.0.206"></a>
+## 0.0.206 (2016-05-02)
+
+* Release 0.0.204 ([737d161](https://github.com/someone/downloads/commit/737d161))
+* Release 0.0.205 ([f3c27b1](https://github.com/someone/downloads/commit/f3c27b1))
+
+
+
 <a name="0.0.205"></a>
 ## 0.0.205 (2016-05-02)
 
