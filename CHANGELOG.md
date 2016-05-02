@@ -1,3 +1,10 @@
+<a name="0.0.187"></a>
+## 0.0.187 (2016-05-02)
+
+* Release 0.0.186 ([8ef201d](https://github.com/someone/downloads/commit/8ef201d))
+
+
+
 <a name="0.0.186"></a>
 ## 0.0.186 (2016-05-02)
 
