@@ -1,3 +1,12 @@
+<a name="0.0.167"></a>
+## 0.0.167 (2016-05-02)
+
+* Release ([2aaa7c6](https://github.com/someone/downloads/commit/2aaa7c6))
+* Release ([dfbd3c9](https://github.com/someone/downloads/commit/dfbd3c9))
+* Release 0.0.165 ([36346c6](https://github.com/someone/downloads/commit/36346c6))
+
+
+
 <a name="0.0.165"></a>
 ## 0.0.165 (2016-03-24)
 
