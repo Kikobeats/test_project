@@ -2,7 +2,7 @@
   "name": "downloads",
   "description": "I'm a lazy",
   "homepage": "https://github.com/someone/downloads",
-  "version": "0.0.221",
+  "version": "0.0.222",
   "main": "./index.js",
   "author": {
     "url": "https://github.com/Someone"
