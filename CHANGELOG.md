@@ -1,3 +1,10 @@
+<a name="0.0.2"></a>
+## 0.0.2 (2016-07-18)
+
+* Release 0.0.1 ([8f805b6](https://github.com/someone/downloads/commit/8f805b6))
+
+
+
 <a name="0.0.1"></a>
 ## 0.0.1 (2016-06-02)
 
