@@ -1,3 +1,13 @@
+<a name="0.0.5"></a>
+## 0.0.5 (2016-07-20)
+
+* Release 0.0.1 ([8f805b6](https://github.com/someone/downloads/commit/8f805b6))
+* Release 0.0.2 ([05b4cda](https://github.com/someone/downloads/commit/05b4cda))
+* Release 0.0.3 ([002c47d](https://github.com/someone/downloads/commit/002c47d))
+* Release 0.0.4 ([d026c51](https://github.com/someone/downloads/commit/d026c51))
+
+
+
 <a name="0.0.4"></a>
 ## 0.0.4 (2016-07-20)
 
