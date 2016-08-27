@@ -25,3 +25,7 @@ plugins:
     'Publishing tag at Github':
       plugin: 'bumped-terminal'
       command: 'git tag $newVersion && git push && git push --tags'
+
+    'Publishing at GitHub Pages':
+      plugin: 'bumped-gh-pages'
+      folder: 'dist'
