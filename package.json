@@ -2,7 +2,7 @@
   "name": "downloads",
   "description": "I'm a lazy",
   "homepage": "https://github.com/someone/downloads",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "main": "./index.js",
   "author": {
     "url": "https://github.com/Someone"
@@ -14,7 +14,9 @@
   "bugs": {
     "url": "https://github.com/someone/downloads/issues"
   },
-  "keywords": [],
+  "keywords": [
+    "test"
+  ],
   "dependencies": {
     "execspawn": "~1.0.1"
   },
