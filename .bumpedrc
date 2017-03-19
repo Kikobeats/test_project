@@ -29,3 +29,5 @@ plugins:
     'Say Hello':
       plugin: 'bumped-http'
       url: 'http://google.com'
+      options:
+        method: 'GET'
