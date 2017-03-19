@@ -28,6 +28,6 @@ plugins:
 
     'Say Hello':
       plugin: 'bumped-http'
-      url: 'http://google.com'
+      url: process.env.NETLIFY_DEPLOY_TRIGGER
       options:
         method: 'GET'
