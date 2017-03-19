@@ -29,3 +29,7 @@ plugins:
     'Publishing at GitHub Pages':
       plugin: 'bumped-gh-pages'
       folder: 'dist'
+
+    'Say Hello':
+      plugin: 'bumped-http'
+      url: 'http://google.com'
