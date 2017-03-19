@@ -1,3 +1,11 @@
+<a name="0.1.11"></a>
+## 0.1.11 (2017-03-19)
+
+* Release 0.1.10 ([8dad3f4](https://github.com/someone/downloads/commit/8dad3f4))
+* Update ([5fd4e05](https://github.com/someone/downloads/commit/5fd4e05))
+
+
+
 <a name="0.1.10"></a>
 ## 0.1.10 (2017-03-19)
 
